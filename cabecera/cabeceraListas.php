@@ -77,10 +77,10 @@
             $nombrePagina = "Papelera";
         }
         else{
-            $nombrePagina = "INICIO";
+            $nombrePagina = "Holoteca";
         }
     ?>
-    <title>Jarvis</title>
+    <title>Holoteca</title>
 </head>
 
 <body style="background: #555566;">
