@@ -8,6 +8,7 @@ Para instalarlo, se requiere un servidor con una base de datos SQL (en caso de n
 Si se ha añadido un usuario y contraseña en la base de datos, se debe modificar el archivo cabeceraListas.php en la carpeta /cabecera, al final del archivo, en la creación del objeto PDO y sustituir respectivamente 'root' y el espacio en blanco ('').
 
 Enlace a la página web: https://davidburguete.000webhostapp.com/
+
 Dirección de correo electrónico: dburgueteg@gmail.com
 
   -David Burguete
